@@ -14,6 +14,8 @@ This is advantage for programing for along period of time but in the current the
 
 hopefully you will like this apps.
 
+First Extract Team.rar File in the same folder and then open/run exe file and follow the instructcion
+
 	Warrning
 _________________________________________
  the current saved thing May be lost
